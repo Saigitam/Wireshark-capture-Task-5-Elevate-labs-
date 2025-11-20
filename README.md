@@ -1,6 +1,8 @@
 # ELEVATE LABS – Cybersecurity Internship  
 ## Task 5: Capture and Analyze Network Traffic Using Wireshark  
-**Name:** Kothamasu Sai Prasad  
+## Objective: Capture live network packets and identify basic protocols and traffic types.
+
+## **Name:** Kothamasu Sai Prasad  
 
 This task demonstrates how I captured and analyzed **live network traffic** using **Wireshark** on my Windows system.  
 The goal was to record packets, filter different protocols, identify traffic types, and export the capture as a `.pcap` file.
@@ -35,7 +37,7 @@ To generate network packets:
 - Opened browser and visited websites (e.g., google.com).
 - Also tested using:
 ping 8.8.8.8
-- Continued activity for about **1 minute**.
+- Continued activity for about **10-20 seconds**.
 
 ---
 
@@ -95,7 +97,7 @@ ping 8.8.8.8
 
 ## 💾 Exporting the Capture
 - Saved the captured traffic file as:
-task5_network_capture.pcap
+Task5_Network_Capture.pcap
 - This file can be opened in Wireshark for detailed review.
 
 ---
