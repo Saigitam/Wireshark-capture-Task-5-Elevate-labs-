@@ -34,7 +34,7 @@ The goal was to record packets, filter different protocols, identify traffic typ
 To generate network packets:
 - Opened browser and visited websites (e.g., google.com).
 - Also tested using:
-ping google.com
+ping 8.8.8.8
 - Continued activity for about **1 minute**.
 
 ---
